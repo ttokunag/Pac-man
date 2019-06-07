@@ -4,7 +4,7 @@
 ***To play the game, your computer is supposed to install jdk 1.8.0 version to import JavaFX.***
 
 ### How to Play
-1. Download "PacmanGame" folder (this folder).
+1. Download "Pac-man" folder (this repository).
 2. From a command prompt/terminal, move to the directory of "Pac-man"
 3. call **`make`** or **`make play`**, and enjoy!
 
