@@ -6,7 +6,7 @@
 ### How to Play
 1. Download "PacmanGame" folder (this folder).
 2. From a command prompt/terminal, move to the directory of "Pac-man"
-3. input ***java GuiPacman***, and enjoy!
+3. call **`make`** or **`make play`**, and enjoy!
 
 <img src="https://github.com/ttokunag/Pac-man/blob/master/image/PlayImage.png" width="550">
 
